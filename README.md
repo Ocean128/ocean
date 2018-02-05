@@ -17,3 +17,6 @@ allprojects {
 compile 'com.github.Ocean128:ocean:V0.0.1'
 ```
 
+网站：
+[http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2015/0227/2502.html](http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2015/0227/2502.html)
+
